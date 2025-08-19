@@ -1,0 +1,41 @@
+
+#DESCRIPCIÓN DE LAS DEPENDENCIAS:
+#-requests: Para hacer peticiones HTTP a las páginas web
+#-beautifulsoup4 + lxml: Para parsear y extraer datos del HTML
+#-pandas + numpy: Para limpiar y normalizar datos fácilmente
+#-pymongo: Para conectar y guardar datos en MongoDB
+#-python-dotenv: Para manejar variables de entorno (.env)
+#-loguru: Para logs más bonitos y fáciles que el logging estándar
+#-schedule: Para programar ejecución automática cada 15 días
+#-pytest: Para testing
+#-fake-useragent: Para rotar user agents y evitar detección
+
+
+# Web Scraping
+requests==2.31.0
+beautifulsoup4==4.12.2
+lxml==4.9.3
+selenium==4.15.2
+
+# Data Processing
+pandas==2.1.4
+numpy==1.26.2
+
+# Database
+pymongo==4.6.1
+
+# Configuration
+python-dotenv==1.0.0
+
+# Logging
+loguru==0.7.2
+
+# Scheduling (para ejecución automática)
+schedule==1.2.0
+
+# Testing
+pytest==7.4.3
+pytest-mock==3.12.0
+
+# HTTP headers y user agents
+fake-useragent==1.4.0

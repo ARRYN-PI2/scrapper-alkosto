@@ -1,0 +1,539 @@
+{
+  "metadata": {
+    "fuente": "alkosto",
+    "fecha_scraping": "2025-08-04T21:30:32.044595",
+    "total_productos": 50,
+    "scraper_version": "1.0",
+    "estadisticas": {
+      "precios": {
+        "min": 649900.0,
+        "max": 3899900.0,
+        "promedio": 1905104.08,
+        "total_con_precio": 49
+      },
+      "tamanos": {
+        "min": 32,
+        "max": 75,
+        "promedio": 54.8,
+        "total_con_tamano": 50
+      },
+      "marcas_top_5": {
+        "Kalley": 13,
+        "Samsung": 10,
+        "Lg": 9,
+        "Tcl": 8,
+        "Challenger": 4
+      },
+      "resoluciones": {
+        "4K": 43,
+        "Full HD": 7
+      },
+      "calificaciones": {
+        "promedio": 0,
+        "total_con_calificacion": 0
+      }
+    }
+  },
+  "productos": [
+    {
+      "nombre": "TV LG 65\" Pulgadas 165 Cm 65UA8050 4K-UHD LED Smart TV Con IA",
+      "precio": 2499900.0,
+      "tamano_pulgadas": 65,
+      "calificacion": null,
+      "marca": "Lg",
+      "resolucion": "4K",
+      "pagina_fuente": "alkosto",
+      "url_producto": "https://www.alkosto.com/tv-lg-65-pulgadas-165-cm-65ua8050-4k-uhd-led-smart-tv-con/p/8806096330241"
+    },
+    {
+      "nombre": "TV SAMSUNG 55\" Pulgadas 139,7 cm Q7F 4K UHD QLED Smart TV con IA + Barra de sonido SAMSUNG HW-C400/ZL",
+      "precio": 2299900.0,
+      "tamano_pulgadas": 55,
+      "calificacion": null,
+      "marca": "Samsung",
+      "resolucion": "4K",
+      "pagina_fuente": "alkosto",
+      "url_producto": "https://www.alkosto.com/tv-samsung-55-pulgadas-1397-cm-q7f-4k-uhd-qled-smart-tv/p/8806097702870"
+    },
+    {
+      "nombre": "TV TCL 55\" Pulgadas 139 cm 55V6C 4K-UHD Smart TV Google",
+      "precio": 1499900.0,
+      "tamano_pulgadas": 55,
+      "calificacion": null,
+      "marca": "Tcl",
+      "resolucion": "4K",
+      "pagina_fuente": "alkosto",
+      "url_producto": "https://www.alkosto.com/tv-tcl-55-pulgadas-139-cm-55v6c-4k-uhd-smart-tv-google/p/6921732899387"
+    },
+    {
+      "nombre": "TV KALLEY 55\" Pulgadas 139 cm 55SB300 4K UHD Smart TV Linux + Roku Express",
+      "precio": 1399900.0,
+      "tamano_pulgadas": 55,
+      "calificacion": null,
+      "marca": "Kalley",
+      "resolucion": "4K",
+      "pagina_fuente": "alkosto",
+      "url_producto": "https://www.alkosto.com/tv-kalley-55-pulgadas-139-cm-55sb300-4k-uhd-smart-tv-linux/p/7705946476829"
+    },
+    {
+      "nombre": "TV SAMSUNG 65\" Pulgadas 165,1 cm U8000F 4K UHD LED Crystal Smart TV",
+      "precio": 2299900.0,
+      "tamano_pulgadas": 65,
+      "calificacion": null,
+      "marca": "Samsung",
+      "resolucion": "4K",
+      "pagina_fuente": "alkosto",
+      "url_producto": "https://www.alkosto.com/tv-samsung-65-pulgadas-1651-cm-u8000f-4k-uhd-led-crystal/p/8806097029052"
+    },
+    {
+      "nombre": "TV SAMSUNG 65\" Pulgadas 165,1 cm QN65Q60DA 4K-UHD QLED Smart TV",
+      "precio": 2849900.0,
+      "tamano_pulgadas": 65,
+      "calificacion": null,
+      "marca": "Samsung",
+      "resolucion": "4K",
+      "pagina_fuente": "alkosto",
+      "url_producto": "https://www.alkosto.com/tv-samsung-65-pulgadas-1651-cm-qn65q60da-4k-uhd-qled-smart/p/8806095388281"
+    },
+    {
+      "nombre": "TV KALLEY 40\" Pulgadas 100.4 cm 40G200 FHD LED Smart TV Google",
+      "precio": 799900.0,
+      "tamano_pulgadas": 40,
+      "calificacion": null,
+      "marca": "Kalley",
+      "resolucion": "Full HD",
+      "pagina_fuente": "alkosto",
+      "url_producto": "https://www.alkosto.com/tv-kalley-40-pulgadas-1004-cm-40g200-fhd-led-smart-tv/p/7705946480017"
+    },
+    {
+      "nombre": "TV TCL 75\" Pulgadas 190.5 cm 75P7K 4K-UHD QLED Smart TV Google",
+      "precio": 2999900.0,
+      "tamano_pulgadas": 75,
+      "calificacion": null,
+      "marca": "Tcl",
+      "resolucion": "4K",
+      "pagina_fuente": "alkosto",
+      "url_producto": "https://www.alkosto.com/tv-tcl-75-pulgadas-1905-cm-75p7k-4k-uhd-qled-smart-tv/p/6921732899431"
+    },
+    {
+      "nombre": "TV KALLEY 43\" Pulgadas 109 cm 43G200 FHD LED Smart TV Google",
+      "precio": 969900.0,
+      "tamano_pulgadas": 43,
+      "calificacion": null,
+      "marca": "Kalley",
+      "resolucion": "Full HD",
+      "pagina_fuente": "alkosto",
+      "url_producto": "https://www.alkosto.com/tv-kalley-43-pulgadas-109-cm-43g200-fhd-led-smart-tv/p/7705946474528"
+    },
+    {
+      "nombre": "TV CHALLENGER 55\" Pulgadas 139 cm LED55BO67 4KUHD LED Smart TV Android",
+      "precio": 1499900.0,
+      "tamano_pulgadas": 55,
+      "calificacion": null,
+      "marca": "Challenger",
+      "resolucion": "4K",
+      "pagina_fuente": "alkosto",
+      "url_producto": "https://www.alkosto.com/tv-challenger-55-pulgadas-139-cm-led55bo67-4kuhd-led-smart/p/7705191044743"
+    },
+    {
+      "nombre": "TV KALLEY 60\" Pulgadas 152.4 cm 60G300 4K UHD LED Smart TV Google",
+      "precio": 1699900.0,
+      "tamano_pulgadas": 60,
+      "calificacion": null,
+      "marca": "Kalley",
+      "resolucion": "4K",
+      "pagina_fuente": "alkosto",
+      "url_producto": "https://www.alkosto.com/tv-kalley-60-pulgadas-1524-cm-60g300-4k-uhd-led-smart-tv/p/7705946480048"
+    },
+    {
+      "nombre": "TV TCL 55\" Pulgadas 139 cm 55P7K 4K-UHD QLED Smart TV Google",
+      "precio": 1899900.0,
+      "tamano_pulgadas": 55,
+      "calificacion": null,
+      "marca": "Tcl",
+      "resolucion": "4K",
+      "pagina_fuente": "alkosto",
+      "url_producto": "https://www.alkosto.com/tv-tcl-55-pulgadas-139-cm-55p7k-4k-uhd-qled-smart-tv/p/6921732899417"
+    },
+    {
+      "nombre": "TV KALLEY 65\" Pulgadas 164 cm 65GQ405 4K-UHD QLED Smart TV Google",
+      "precio": 2299900.0,
+      "tamano_pulgadas": 65,
+      "calificacion": null,
+      "marca": "Kalley",
+      "resolucion": "4K",
+      "pagina_fuente": "alkosto",
+      "url_producto": "https://www.alkosto.com/tv-kalley-65-pulgadas-164-cm-65gq405-4k-uhd-qled-smart-tv/p/7705946479806"
+    },
+    {
+      "nombre": "TV CHALLENGER 43\" Pulgadas 108 cm LED 43KG84 FHD LED Smart TV Google",
+      "precio": 989900.0,
+      "tamano_pulgadas": 43,
+      "calificacion": null,
+      "marca": "Challenger",
+      "resolucion": "Full HD",
+      "pagina_fuente": "alkosto",
+      "url_producto": "https://www.alkosto.com/tv-challenger-43-pulgadas-108-cm-led-43kg84-fhd-led-smart/p/7705191044927"
+    },
+    {
+      "nombre": "TV SAMSUNG 65\" Pulgadas 165.1 cm F-QN65LS03D 4K-UHD QLED THE FRAME Smart TV (Incluye marco color caoba VG-SCFA55TKBRU)",
+      "precio": 3899900.0,
+      "tamano_pulgadas": 65,
+      "calificacion": null,
+      "marca": "Samsung",
+      "resolucion": "4K",
+      "pagina_fuente": "alkosto",
+      "url_producto": "https://www.alkosto.com/tv-samsung-65-pulgadas-1651-cm-f-qn65ls03d-4k-uhd-qled-the/p/8806095715438"
+    },
+    {
+      "nombre": "TV CHALLENGER 40\" Pulgadas 101 cm 40KG84 FHD LED Smart TV Google",
+      "precio": 839900.0,
+      "tamano_pulgadas": 40,
+      "calificacion": null,
+      "marca": "Challenger",
+      "resolucion": "Full HD",
+      "pagina_fuente": "alkosto",
+      "url_producto": "https://www.alkosto.com/tv-challenger-40-pulgadas-101-cm-40kg84-fhd-led-smart-tv/p/7705191044835"
+    },
+    {
+      "nombre": "TV TCL 43\" Pulgadas 109 cm 43S5K FHD QLED Smart TV Google",
+      "precio": 999900.0,
+      "tamano_pulgadas": 43,
+      "calificacion": null,
+      "marca": "Tcl",
+      "resolucion": "Full HD",
+      "pagina_fuente": "alkosto",
+      "url_producto": "https://www.alkosto.com/tv-tcl-43-pulgadas-109-cm-43s5k-fhd-qled-smart-tv-google/p/6921732899356"
+    },
+    {
+      "nombre": "TV SAMSUNG 55\" Pulgadas 139,7 cm U8000F 4K UHD LED Crystal Smart TV",
+      "precio": 1849900.0,
+      "tamano_pulgadas": 55,
+      "calificacion": null,
+      "marca": "Samsung",
+      "resolucion": "4K",
+      "pagina_fuente": "alkosto",
+      "url_producto": "https://www.alkosto.com/tv-samsung-55-pulgadas-1397-cm-u8000f-4k-uhd-led-crystal/p/8806097027584"
+    },
+    {
+      "nombre": "TV HYUNDAI 43\" Pulgadas 109,2cm HYLED4325RiM FHD LED Smart TV Roku",
+      "precio": 929900.0,
+      "tamano_pulgadas": 43,
+      "calificacion": null,
+      "marca": "Desconocida",
+      "resolucion": "Full HD",
+      "pagina_fuente": "alkosto",
+      "url_producto": "https://www.alkosto.com/tv-hyundai-43-pulgadas-1092cm-hyled4325rim-fhd-led-smart/p/7707138006982"
+    },
+    {
+      "nombre": "TV KALLEY 55\" Pulgadas 139 cm 55GQ405 4K-UHD QLED Smart TV Google",
+      "precio": 1699900.0,
+      "tamano_pulgadas": 55,
+      "calificacion": null,
+      "marca": "Kalley",
+      "resolucion": "4K",
+      "pagina_fuente": "alkosto",
+      "url_producto": "https://www.alkosto.com/tv-kalley-55-pulgadas-139-cm-55gq405-4k-uhd-qled-smart-tv/p/7705946479714"
+    },
+    {
+      "nombre": "TV KALLEY 70\" Pulgadas 177 cm 70GQ405 4K-UHD QLED Smart TV Google",
+      "precio": 2499900.0,
+      "tamano_pulgadas": 70,
+      "calificacion": null,
+      "marca": "Kalley",
+      "resolucion": "4K",
+      "pagina_fuente": "alkosto",
+      "url_producto": "https://www.alkosto.com/tv-kalley-70-pulgadas-177-cm-70gq405-4k-uhd-qled-smart-tv/p/7705946479738"
+    },
+    {
+      "nombre": "TV HYUNDAI 60\" Pulgadas 152,4cm HYLED6005QG QLED Smart TV Google",
+      "precio": 1969900.0,
+      "tamano_pulgadas": 60,
+      "calificacion": null,
+      "marca": "Desconocida",
+      "resolucion": "4K",
+      "pagina_fuente": "alkosto",
+      "url_producto": "https://www.alkosto.com/tv-hyundai-60-pulgadas-1524cm-hyled6005qg-qled-smart-tv/p/7707138062209"
+    },
+    {
+      "nombre": "TV LG 55\" Pulgadas 140 Cm 55QNED82ASG 4K-UHD QNED Smart TV Con IA",
+      "precio": 2399900.0,
+      "tamano_pulgadas": 55,
+      "calificacion": null,
+      "marca": "Lg",
+      "resolucion": "4K",
+      "pagina_fuente": "alkosto",
+      "url_producto": "https://www.alkosto.com/tv-lg-55-pulgadas-140-cm-55qned82asg-4k-uhd-qned-smart-tv/p/8806096332849"
+    },
+    {
+      "nombre": "TV LG 55\" Pulgadas 140 Cm 55NANO80 4K-UHD NanoCell Smart TV Con IA",
+      "precio": 2199900.0,
+      "tamano_pulgadas": 55,
+      "calificacion": null,
+      "marca": "Lg",
+      "resolucion": "4K",
+      "pagina_fuente": "alkosto",
+      "url_producto": "https://www.alkosto.com/tv-lg-55-pulgadas-140-cm-55nano80-4k-uhd-nanocell-smart-tv/p/8806096375037"
+    },
+    {
+      "nombre": "TV LG 55\" Pulgadas 140 Cm 55UA8050 4K-UHD LED Smart TV Con IA",
+      "precio": 1899900.0,
+      "tamano_pulgadas": 55,
+      "calificacion": null,
+      "marca": "Lg",
+      "resolucion": "4K",
+      "pagina_fuente": "alkosto",
+      "url_producto": "https://www.alkosto.com/tv-lg-55-pulgadas-140-cm-55ua8050-4k-uhd-led-smart-tv-con/p/8806096329887"
+    },
+    {
+      "nombre": "TV SAMSUNG 50\" Pulgadas 127 cm 50DU8000 4K UHD LED Crystal Smart TV",
+      "precio": 1999900.0,
+      "tamano_pulgadas": 50,
+      "calificacion": null,
+      "marca": "Samsung",
+      "resolucion": "4K",
+      "pagina_fuente": "alkosto",
+      "url_producto": "https://www.alkosto.com/tv-samsung-50-pulgadas-127-cm-50du8000-4k-uhd-led-crystal/p/8806095482286"
+    },
+    {
+      "nombre": "TV KALLEY 50\" Pulgadas 126 cm 50GQ405 4K-UHD QLED Smart TV Google",
+      "precio": 1499900.0,
+      "tamano_pulgadas": 50,
+      "calificacion": null,
+      "marca": "Kalley",
+      "resolucion": "4K",
+      "pagina_fuente": "alkosto",
+      "url_producto": "https://www.alkosto.com/tv-kalley-50-pulgadas-126-cm-50gq405-4k-uhd-qled-smart-tv/p/7705946479707"
+    },
+    {
+      "nombre": "TV SAMSUNG 50\" Pulgadas 127 cm Q7F 4K UHD QLED Smart TV con IA",
+      "precio": 1999900.0,
+      "tamano_pulgadas": 50,
+      "calificacion": null,
+      "marca": "Samsung",
+      "resolucion": "4K",
+      "pagina_fuente": "alkosto",
+      "url_producto": "https://www.alkosto.com/tv-samsung-50-pulgadas-127-cm-q7f-4k-uhd-qled-smart-tv-con/p/8806097146711"
+    },
+    {
+      "nombre": "TV TCL 65\" Pulgadas 165 cm 65P7K 4K-UHD QLED Smart TV Google",
+      "precio": 0.0,
+      "tamano_pulgadas": 65,
+      "calificacion": null,
+      "marca": "Tcl",
+      "resolucion": "4K",
+      "pagina_fuente": "alkosto",
+      "url_producto": "https://www.alkosto.com/tv-tcl-65-pulgadas-165-cm-65p7k-4k-uhd-qled-smart-tv/p/6921732899424"
+    },
+    {
+      "nombre": "TV KALLEY 32\" Pulgadas 81 cm K-GTV32FHD LED Smart TV Google",
+      "precio": 649900.0,
+      "tamano_pulgadas": 32,
+      "calificacion": null,
+      "marca": "Kalley",
+      "resolucion": "Full HD",
+      "pagina_fuente": "alkosto",
+      "url_producto": "https://www.alkosto.com/tv-kalley-32-pulgadas-81-cm-k-gtv32fhd-led-smart-tv-google/p/7705946478137"
+    },
+    {
+      "nombre": "TV TCL 75\" Pulgadas 190.5 cm 75V6C 4K-UHD Smart TV Google",
+      "precio": 2799900.0,
+      "tamano_pulgadas": 75,
+      "calificacion": null,
+      "marca": "Tcl",
+      "resolucion": "4K",
+      "pagina_fuente": "alkosto",
+      "url_producto": "https://www.alkosto.com/tv-tcl-75-pulgadas-1905-cm-75v6c-4k-uhd-smart-tv-google/p/6921732899400"
+    },
+    {
+      "nombre": "TV LG 50\" Pulgadas 127 Cm 50UA7500PSA 4K-UHD Smart TV Con IA",
+      "precio": 1599900.0,
+      "tamano_pulgadas": 50,
+      "calificacion": null,
+      "marca": "Lg",
+      "resolucion": "4K",
+      "pagina_fuente": "alkosto",
+      "url_producto": "https://www.alkosto.com/tv-lg-50-pulgadas-127-cm-50ua7500psa-4k-uhd-smart-tv-con/p/8806096329245"
+    },
+    {
+      "nombre": "TV LG 75\" Pulgadas 189 Cm 75NANO80 4K-UHD NanoCell Smart TV Con IA",
+      "precio": 3899900.0,
+      "tamano_pulgadas": 75,
+      "calificacion": null,
+      "marca": "Lg",
+      "resolucion": "4K",
+      "pagina_fuente": "alkosto",
+      "url_producto": "https://www.alkosto.com/tv-lg-75-pulgadas-189-cm-75nano80-4k-uhd-nanocell-smart-tv/p/8806096344187"
+    },
+    {
+      "nombre": "TV PANASONIC 43\" Pulgadas 109 cm 43NX700 LED 4K-UHD Smart TV Google TV",
+      "precio": 1199900.0,
+      "tamano_pulgadas": 43,
+      "calificacion": null,
+      "marca": "Panasonic",
+      "resolucion": "4K",
+      "pagina_fuente": "alkosto",
+      "url_producto": "https://www.alkosto.com/tv-panasonic-43-pulgadas-109-cm-43nx700-led-4k-uhd-smart/p/8887549869716"
+    },
+    {
+      "nombre": "TV PANASONIC 50\" Pulgadas 127 cm 50NX700 LED 4K-UHD Smart TV Google TV",
+      "precio": 1499900.0,
+      "tamano_pulgadas": 50,
+      "calificacion": null,
+      "marca": "Panasonic",
+      "resolucion": "4K",
+      "pagina_fuente": "alkosto",
+      "url_producto": "https://www.alkosto.com/tv-panasonic-50-pulgadas-127-cm-50nx700-led-4k-uhd-smart/p/8887549869747"
+    },
+    {
+      "nombre": "TV CHALLENGER 50\" Pulgadas 126 cm LED50KG85 4KUHD LED Smart TV Google",
+      "precio": 1379900.0,
+      "tamano_pulgadas": 50,
+      "calificacion": null,
+      "marca": "Challenger",
+      "resolucion": "4K",
+      "pagina_fuente": "alkosto",
+      "url_producto": "https://www.alkosto.com/tv-challenger-50-pulgadas-126-cm-led50kg85-4kuhd-led-smart/p/7705191044552"
+    },
+    {
+      "nombre": "TV LG 43\" Pulgadas 109 Cm 43NANO80 4K-UHD NanoCell Smart TV Con IA",
+      "precio": 1699900.0,
+      "tamano_pulgadas": 43,
+      "calificacion": null,
+      "marca": "Lg",
+      "resolucion": "4K",
+      "pagina_fuente": "alkosto",
+      "url_producto": "https://www.alkosto.com/tv-lg-43-pulgadas-109-cm-43nano80-4k-uhd-nanocell-smart-tv/p/8806096328767"
+    },
+    {
+      "nombre": "TV KALLEY 50\" Pulgadas 126 cm 50G305 4K UHD MAX LED Smart TV Google",
+      "precio": 1399900.0,
+      "tamano_pulgadas": 50,
+      "calificacion": null,
+      "marca": "Kalley",
+      "resolucion": "4K",
+      "pagina_fuente": "alkosto",
+      "url_producto": "https://www.alkosto.com/tv-kalley-50-pulgadas-126-cm-50g305-4k-uhd-max-led-smart/p/7705946479677"
+    },
+    {
+      "nombre": "TV SAMSUNG 55\" Pulgadas 139,7 cm Q8F 4K UHD QLED Smart TV con IA",
+      "precio": 2699900.0,
+      "tamano_pulgadas": 55,
+      "calificacion": null,
+      "marca": "Samsung",
+      "resolucion": "4K",
+      "pagina_fuente": "alkosto",
+      "url_producto": "https://www.alkosto.com/tv-samsung-55-pulgadas-1397-cm-q8f-4k-uhd-qled-smart-tv/p/8806097120520"
+    },
+    {
+      "nombre": "TV HYUNDAI 50\" Pulgadas 127cm HYLED5024G 4KUHD Smart TV Google",
+      "precio": 1419900.0,
+      "tamano_pulgadas": 50,
+      "calificacion": null,
+      "marca": "Desconocida",
+      "resolucion": "4K",
+      "pagina_fuente": "alkosto",
+      "url_producto": "https://www.alkosto.com/tv-hyundai-50-pulgadas-127cm-hyled5024g-4kuhd-smart-tv/p/7707138032370"
+    },
+    {
+      "nombre": "TV SAMSUNG 43\" Pulgadas 109,22 cm U8000F 4K UHD LED Crystal Smart TV",
+      "precio": 1499900.0,
+      "tamano_pulgadas": 43,
+      "calificacion": null,
+      "marca": "Samsung",
+      "resolucion": "4K",
+      "pagina_fuente": "alkosto",
+      "url_producto": "https://www.alkosto.com/tv-samsung-43-pulgadas-10922-cm-u8000f-4k-uhd-led-crystal/p/8806097027331"
+    },
+    {
+      "nombre": "TV TCL 55\" Pulgadas 139 cm 55C6K 4K-UHD QD-MINI LED Smart TV Google",
+      "precio": 2599900.0,
+      "tamano_pulgadas": 55,
+      "calificacion": null,
+      "marca": "Tcl",
+      "resolucion": "4K",
+      "pagina_fuente": "alkosto",
+      "url_producto": "https://www.alkosto.com/tv-tcl-55-pulgadas-139-cm-55c6k-4k-uhd-qd-mini-led-smart/p/6921732845438"
+    },
+    {
+      "nombre": "TV HYUNDAI 60\" Pulgadas 152,4cm HYLED6004G 4K-UHD Smart TV Google",
+      "precio": 1849900.0,
+      "tamano_pulgadas": 60,
+      "calificacion": null,
+      "marca": "Desconocida",
+      "resolucion": "4K",
+      "pagina_fuente": "alkosto",
+      "url_producto": "https://www.alkosto.com/tv-hyundai-60-pulgadas-1524cm-hyled6004g-4k-uhd-smart-tv/p/7707138093920"
+    },
+    {
+      "nombre": "TV LG 50\" Pulgadas 127 Cm 50NANO80 4K-UHD NanoCell Smart TV Con IA",
+      "precio": 1899900.0,
+      "tamano_pulgadas": 50,
+      "calificacion": null,
+      "marca": "Lg",
+      "resolucion": "4K",
+      "pagina_fuente": "alkosto",
+      "url_producto": "https://www.alkosto.com/tv-lg-50-pulgadas-127-cm-50nano80-4k-uhd-nanocell-smart-tv/p/8806096344323"
+    },
+    {
+      "nombre": "TV KALLEY 43\" Pulgadas 116 cm 43G305 4K UHD MAX LED Smart TV Google",
+      "precio": 1199900.0,
+      "tamano_pulgadas": 43,
+      "calificacion": null,
+      "marca": "Kalley",
+      "resolucion": "4K",
+      "pagina_fuente": "alkosto",
+      "url_producto": "https://www.alkosto.com/tv-kalley-43-pulgadas-116-cm-43g305-4k-uhd-max-led-smart/p/7705946479882"
+    },
+    {
+      "nombre": "TV KALLEY 75\" Pulgadas 190 cm 75GQ405 4K-UHD QLED Smart TV Google",
+      "precio": 2999900.0,
+      "tamano_pulgadas": 75,
+      "calificacion": null,
+      "marca": "Kalley",
+      "resolucion": "4K",
+      "pagina_fuente": "alkosto",
+      "url_producto": "https://www.alkosto.com/tv-kalley-75-pulgadas-190-cm-75gq405-4k-uhd-qled-smart-tv/p/7705946479745"
+    },
+    {
+      "nombre": "TV SAMSUNG 75\" Pulgadas 190,5 cm U8000F 4K UHD LED Crystal Smart TV",
+      "precio": 3599900.0,
+      "tamano_pulgadas": 75,
+      "calificacion": null,
+      "marca": "Samsung",
+      "resolucion": "4K",
+      "pagina_fuente": "alkosto",
+      "url_producto": "https://www.alkosto.com/tv-samsung-75-pulgadas-1905-cm-u8000f-4k-uhd-led-crystal/p/8806097029359"
+    },
+    {
+      "nombre": "TV TCL 50\" Pulgadas 127 cm 50V6C 4K-UHD Smart TV Google",
+      "precio": 1399900.0,
+      "tamano_pulgadas": 50,
+      "calificacion": null,
+      "marca": "Tcl",
+      "resolucion": "4K",
+      "pagina_fuente": "alkosto",
+      "url_producto": "https://www.alkosto.com/tv-tcl-50-pulgadas-127-cm-50v6c-4k-uhd-smart-tv-google/p/6921732899370"
+    },
+    {
+      "nombre": "TV KALLEY 55\" Pulgadas 139 cm 55G305 4K UHD MAX LED Smart TV Google",
+      "precio": 1549900.0,
+      "tamano_pulgadas": 55,
+      "calificacion": null,
+      "marca": "Kalley",
+      "resolucion": "4K",
+      "pagina_fuente": "alkosto",
+      "url_producto": "https://www.alkosto.com/tv-kalley-55-pulgadas-139-cm-55g305-4k-uhd-max-led-smart/p/7705946479684"
+    },
+    {
+      "nombre": "TV LG 55\" Pulgadas 140 Cm 55UA7300PSB 4K-UHD Smart TV Con IA",
+      "precio": 1804900.0,
+      "tamano_pulgadas": 55,
+      "calificacion": null,
+      "marca": "Lg",
+      "resolucion": "4K",
+      "pagina_fuente": "alkosto",
+      "url_producto": "https://www.alkosto.com/tv-lg-55-pulgadas-140-cm-55ua7300psb-4k-uhd-smart-tv-con/p/8806096339107"
+    }
+  ]
+}
