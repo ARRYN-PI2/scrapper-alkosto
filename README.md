@@ -44,7 +44,7 @@ python -m alkosto_scraper.main scrape --categoria televisores --paginas 3 --outp
 
 ### Celulares y Smartphones
 ```bash
-python -m alkosto_scraper.main scrape --categoria celulares --paginas 2 --output data/celulares.jsonl
+python -m alkosto_scraper.main scrape --categoria celulares --paginas  --output data/celulares.jsonl
 ```
 
 ### Domótica y Casa Inteligente
