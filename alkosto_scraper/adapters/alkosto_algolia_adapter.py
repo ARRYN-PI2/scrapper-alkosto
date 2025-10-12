@@ -37,6 +37,7 @@ class AlkostoAlgoliaAdapter(ScraperPort):
             "lavado": "BI_0600_ALKOS",
             "refrigeracion": "BI_0610_ALKOS",
             "cocina": "BI_0580_ALKOS",
+            "portatiles": "BI_104_ALKOS",
             "audifonos": "BI_111_ALKOS",
             "videojuegos": "BI_VIJU_ALKOS",
             "deportes": "BI_DEPO_ALKOS"
@@ -60,7 +61,8 @@ class AlkostoAlgoliaAdapter(ScraperPort):
             "cocina": "estufa horno cocina microondas",
             "audifonos": "audifono headphone auricular",
             "videojuegos": "juego consola videojuego playstation xbox nintendo",
-            "deportes": "deporte ejercicio fitness bicicleta"
+            "deportes": "deporte ejercicio fitness bicicleta",
+            "portatiles": "laptop portatil notebook computador portatil computador-portatil"
         }
         
         search_query = search_terms.get(categoria, "")
@@ -265,7 +267,8 @@ class AlkostoAlgoliaAdapter(ScraperPort):
             "cocina": ["estufa", "horno", "cocina", "microondas", "cocineta"],
             "audifonos": ["audifono", "headphone", "auricular", "airpods", "beats"],
             "videojuegos": ["juego", "consola", "videojuego", "playstation", "xbox", "nintendo", "gaming"],
-            "deportes": ["deporte", "ejercicio", "fitness", "bicicleta", "patineta", "gym"]
+            "deportes": ["deporte", "ejercicio", "fitness", "bicicleta", "patineta", "gym"],
+            "portatiles": ["laptop", "portatil", "notebook", "computador portatil", "chromebook", "lenovo", "hp", "asus", "acer", "dell"]
         }
         
         keywords = category_keywords.get(categoria, [])

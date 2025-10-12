@@ -37,6 +37,13 @@ EXPECTED_URLS = {
     }
 }
 
+EXPECTED_URLS.update({
+    "portatiles": {
+        "url": "https://www.alkosto.com/computadores-tablet/computadores-portatiles/c/BI_104_ALKOS",
+        "patron_url": ['/portatil-', '/laptop-', '/notebook-', '/computador-portatil-', '/computador-portatil-'],
+    }
+})
+
 BASE_HOST = "https://www.alkosto.com"
 DEFAULT_HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "

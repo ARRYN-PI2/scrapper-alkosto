@@ -27,6 +27,7 @@ python -m alkosto_scraper.main scrape --categoria televisores --paginas 5 --outp
 - `audifonos`: Audífonos y auriculares
 - `videojuegos`: Consolas y videojuegos
 - `deportes`: Artículos deportivos
+- `portatiles`: Laptops, notebooks y computadores portátiles
 
 ### Formatos de salida
 
@@ -39,53 +40,58 @@ A continuación se muestran los comandos específicos para extraer productos de 
 
 ### Televisores
 ```bash
-python -m alkosto_scraper.main scrape --categoria televisores --paginas 3 --output data/televisores.jsonl
+python -m alkosto_scraper.main scrape --categoria televisores --paginas 3 --output data/televisores.jsonl --hybrid
 ```
 
 ### Celulares y Smartphones
 ```bash
-python -m alkosto_scraper.main scrape --categoria celulares --paginas 2 --output data/celulares.jsonl
+python -m alkosto_scraper.main scrape --categoria celulares --paginas 2 --output data/celulares.jsonl --hybrid
 ```
 
 ### Domótica y Casa Inteligente
 ```bash
-python -m alkosto_scraper.main scrape --categoria domotica --paginas 2 --output data/domotica.jsonl
+python -m alkosto_scraper.main scrape --categoria domotica --paginas 2 --output data/domotica.jsonl --hybrid
 ```
 
 ### Electrodomésticos de Lavado
 ```bash
-python -m alkosto_scraper.main scrape --categoria lavado --paginas 2 --output data/lavado.jsonl
+python -m alkosto_scraper.main scrape --categoria lavado --paginas 2 --output data/lavado.jsonl --hybrid
 ```
 
 ### Refrigeración
 ```bash
-python -m alkosto_scraper.main scrape --categoria refrigeracion --paginas 2 --output data/refrigeracion.jsonl
+python -m alkosto_scraper.main scrape --categoria refrigeracion --paginas 2 --output data/refrigeracion.jsonl --hybrid
 ```
 
 ### Cocina
 ```bash
-python -m alkosto_scraper.main scrape --categoria cocina --paginas 2 --output data/cocina.jsonl
+python -m alkosto_scraper.main scrape --categoria cocina --paginas 2 --output data/cocina.jsonl --hybrid
 ```
 
 ### Audífonos y Auriculares
 ```bash
-python -m alkosto_scraper.main scrape --categoria audifonos --paginas 2 --output data/audifonos.jsonl
+python -m alkosto_scraper.main scrape --categoria audifonos --paginas 2 --output data/audifonos.jsonl --hybrid
 ```
 
 ### Videojuegos y Consolas
 ```bash
-python -m alkosto_scraper.main scrape --categoria videojuegos --paginas 2 --output data/videojuegos.jsonl
+python -m alkosto_scraper.main scrape --categoria videojuegos --paginas 2 --output data/videojuegos.jsonl --hybrid
 ```
 
 ### Deportes y Fitness
 ```bash
-python -m alkosto_scraper.main scrape --categoria deportes --paginas 2 --output data/deportes.jsonl
+python -m alkosto_scraper.main scrape --categoria deportes --paginas 2 --output data/deportes.jsonl --hybrid
+```
+
+### Portátiles, Laptops y Notebooks
+```bash
+python -m alkosto_scraper.main scrape --categoria portatiles --paginas 2 --output data/portatiles.jsonl --hybrid
 ```
 
 ### Exportar a CSV
 Para cualquier categoría, puedes cambiar la extensión a `.csv` para obtener un archivo CSV:
 ```bash
-python -m alkosto_scraper.main scrape --categoria televisores --paginas 2 --output data/televisores.csv
+python -m alkosto_scraper.main scrape --categoria televisores --paginas 2 --output data/televisores.csv --hybrid
 ```
 
 ### Usar adaptador legacy (HTML)
